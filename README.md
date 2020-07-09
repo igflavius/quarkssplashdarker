@@ -1,6 +1,6 @@
 <h1>Quarks Splash Darker</h1>
 
-<h3>This splash is based on [Quarks Splash Dark](https://store.kde.org/p/1304256/) by ADHE</h3>
+#### This splash is based on [Quarks Splash Dark](https://store.kde.org/p/1304256/) by ADHE
 
 <h5>Install</h5>
 
